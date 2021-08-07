@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @sel0nidas
+- 👀 I’m interested in web development and real time data management
+- Life is too short to complain about something, just want to solve the problems and develop myself

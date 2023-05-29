@@ -1,3 +1,7 @@
 - 👋 Hi, I’m Selahattin Emre Kutlu - @sel0nidas
+- Bionluk https://bionluk.com/sel0nidas
+- Personal Website https://sel0nidas.github.io/
+- https://chrome.google.com/webstore/detail/s-sport-plus-watchparty/fjknckoobefjojgbpbfgddillaldjocf?hl=tr&authuser=0
+- https://chrome.google.com/webstore/detail/2live/ianfnmghikdenjecaodkljgmmfaoclkp
 - 👀 I’m interested in web development and real time data management
 - Life is too short to complain about something, I just want to solve the problems and develop myself

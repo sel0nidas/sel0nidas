@@ -4,4 +4,3 @@
 - https://chrome.google.com/webstore/detail/s-sport-plus-watchparty/fjknckoobefjojgbpbfgddillaldjocf
 - https://chrome.google.com/webstore/detail/2live/ianfnmghikdenjecaodkljgmmfaoclkp
 - 👀 I’m interested in web development and real time data management
-- Life is too short to complain about something, I just want to solve the problems and develop myself
